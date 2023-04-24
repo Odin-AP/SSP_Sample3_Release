@@ -88,3 +88,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+
+SSP_Sample3_release/
+*.xcodeproj
+.DS_Store
